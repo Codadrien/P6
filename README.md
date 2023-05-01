@@ -2,7 +2,7 @@ P6 - Parcours développeur Web
 
 Pour visualiser le projet :
 
-1. Cloner le repository
+1. Cloner le repository https://github.com/Codadrien/P6
 2. Se créer un fichier .env dans P6/backend/ et mettre sa clé de base de donnée (syntaxe : MONGO_DB=CLE)
 3. À partir de P6/frontend faire npm install puis npm run start
 4. À partir de P6/backend faire npm install puis node server
